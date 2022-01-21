@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 #git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
-git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
+#git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 #git clone https://github.com/MeIsReallyBa/k2p-openwrt-mt7615_5.0.2.0 package/mtk
