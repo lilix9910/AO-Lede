@@ -24,5 +24,5 @@
 #git clone https://github.com/coolsnowwolf/packages package/lean-packages
 
 git clone https://github.com/fw876/helloworld package/helloworld
-git clone https://github.com/coolsnowwolf/packages package/lean-packages
+git clone https://github.com/coolsnowwolf/packages package/packages
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >> feeds.conf.default
