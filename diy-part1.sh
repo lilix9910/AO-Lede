@@ -23,6 +23,7 @@
 #git clone https://github.com/kenzok8/openwrt-packages package/openwrt-packages
 #git clone https://github.com/coolsnowwolf/packages package/lean-packages
 
-git clone https://github.com/fw876/helloworld package/helloworld
+#git clone https://github.com/fw876/helloworld package/helloworld
 git clone https://github.com/coolsnowwolf/packages package/packages
+git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >> feeds.conf.default
